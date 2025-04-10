@@ -1,6 +1,10 @@
-# My FAIR-EASE book
+# FAIR-EASE General architecture
 
-This is a small sample book to give you a feel for how book content is structured.
 
-It uses the new [Jupyterbook version](https://next.jupyterbook.org)
+```{figure} fair-ease-general-architecture.png
+:label: FE-Architecture
+:alt: FAIR-EASE General Architecture
+:align: center
+```
 
+Some Text
