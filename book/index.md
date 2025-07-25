@@ -11,7 +11,7 @@ documents the project's vision, challenges, technical solutions and demonstrator
 
 ## Data Acccess
 
-The [**Interdisciplinary Data Discovery and Access Service**](02-data-discovery/01-introduction.md) (IDDAS)
+The [**Interdisciplinary Data Discovery and Access Service**](01-data-discovery/01-introduction.md) (IDDAS)
 focuses on providing a semantically enriched metadata catalogue based on
 a customised DCAT application profile (DCAT-FE), enabling seamless data
 discovery and access across domains and platforms, both for human and machine.
