@@ -18,7 +18,7 @@ SpatioTemporal Asset Catalog (STAC) access point.
 ![](02_01_openeo.png){width="4.993233814523185in"
 height="1.8448895450568679in"}
 
-[]{#_heading=h.ysmyn16ennak .anchor}*Figure 11 - Unify data access with
+[]{#_heading=h.ysmyn16ennak .anchor}<directive-fig>* Unify data access with
 openEO*[^10]
 
 With openEO, users can apply processing functions directly on the data
