@@ -26,7 +26,9 @@ workflows. This feature is notably used in particular by the Volcano
 Space Observatory to optimize access to a specific satellite image from
 a TIFF file supplied by Copernicus Data Space Ecosystem.
 
-![](media/image33.png){width="3.6027351268591428in"
-height="2.2886679790026245in"}
+```{figure} 02_01_arco.png
+:height: 350px
+:name: figure-02_01_arco
 
-[]{#_heading=h.ycmdenv04vce .anchor}*Figure 6- HTTP range requests*
+HTTP range requests
+```

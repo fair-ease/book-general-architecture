@@ -7,11 +7,12 @@ they organize data into manageable chunks indexed in embedded metadata,
 making them ideal for intensive data processing (i.e. parallel or
 distributed processing), such as big data or data science.
 
-![](media/image26.png){width="5.589492563429571in"
-height="3.0063867016622923in"}
+```{figure} 02_01_zarr.png
+:height: 350px
+:name: figure-02_01_zarr
 
-[]{#_heading=h.1i9tn1ubwcw9 .anchor}*Figure 7 - Zarr structure*[^5]
-
+Zarr structure
+```
 They are said to be "cloud-optimised", as they are compatible with HTTP
 range requests, i.e. the chunks and metadata are organized in such a way
 that the chunks of interest can be accessed without downloading the
@@ -26,11 +27,12 @@ GeoZarr, GeoParquet). It provides simplified integration with tools such
 as QGIS desktop or GDAL, ensuring interoperability between desktop
 applications and cloud-native platforms.
 
-![](media/image32.png){width="6.739583333333333in"
-height="4.239583333333333in"}
+```{figure} 02_01_cloudnative.png
+:height: 350px
+:name: figure-02_01_cloudnative
 
-[]{#_heading=h.tm7ue41ef0j5 .anchor}*Figure 8 - Cloud-Optimised
-Geospatial Formats*[^6]
+Cloud-Optimised Geospatial Formats
+```
 
 FAIR-EASE promotes the use of these formats to speed up the analysis of
 a subset of data, but also to improve the performance of standardised

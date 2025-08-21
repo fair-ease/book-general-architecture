@@ -30,10 +30,12 @@ metadata, with as many links as possible to controlled vocabularies.
 
 Here is the architecture proposed by FAIR-EASE:
 
-![](media/image37.png){width="6.824268372703412in"
-height="4.022391732283465in"}
+```{figure} 02_01_stac.png
+:height: 350px
+:name: figure-02_01_stac
 
-[]{#_heading=h.8lyvumjjyts7 .anchor}*Figure 9 - STAC architecture*
+STAC architecture
+```
 
 An implementation has been provided by Ifremer to demonstrate the use of
 STAC for in-situ data, including native ARGO datasets. This includes a
@@ -46,7 +48,9 @@ spatial footprints.
 
 Here is a screenshot of an ARGO profile item from the STAC Browser:
 
-![](media/image35.png){width="6.615625546806649in"
-height="3.8994116360454942in"}
+```{figure} 02_01_stacbrowser.png
+:height: 350px
+:name: figure-02_01_stacbrowser
 
-[]{#_heading=h.u9rtypwft8hi .anchor}*Figure 10 - STAC Browser example*
+STAC Browser example
+```
