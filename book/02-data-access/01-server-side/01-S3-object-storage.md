@@ -4,11 +4,13 @@ S3 (Simple Storage Service) is a widely adopted cloud-based object
 storage system that allows data to be stored and accessed as discrete
 objects, each associated with both the actual data content and metadata.
 
-![](media/image28.png){width="5.008858267716535in"
-height="1.407843394575678in"}
 
-[]{#_heading=h.6t96xzkh6pwo .anchor}*Figure 5 - Storage types
-comparison*[^3]
+```{figure} 02_01_s3_image17.png
+:height: 350px
+:name: figure-02_01_s3_image17
+
+Storage types comparison
+```
 
 Unlike traditional file systems, S3 operates over the HTTP protocol
 along with API's, making it highly scalable and accessible across

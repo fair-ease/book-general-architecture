@@ -25,11 +25,13 @@ also been created for users to experiment with on their own systems, it
 is available on Github[^19] and uses Minio as a local S3 object store.
 This can also be reconfigured to use cloud hosted S3 object stores.
 
-![](media/image16.png){width="6.410340113735783in"
-height="1.9703258967629047in"}
 
-[]{#_heading=h.1gzs412new65 .anchor}*Figure 20 - Apache Iceberg Trino
-and ERDDAP*
+```{figure} 02_01_iceberg.png
+:height: 350px
+:name: figure-02_01_iceberg
+
+Apache Iceberg Trino and ERDDAP
+```
 
 Geomatys is actively working to integrate Apache SIS, an open-source
 geospatial framework they maintain and which is at the core of the
