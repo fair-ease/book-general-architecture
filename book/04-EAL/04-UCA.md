@@ -10,7 +10,7 @@ The EAL FAIR-EASE@UCA remains in an incubation phase but is
 progressively taking shape through key developments. Notably, it has
 been interfaced with the EGI Check-in SSO service to support federated
 authentication and has integrated an S3 object storage
-([[s3://s3.mesocentre.uca.fr]](http://s3.mesocentre.uca.fr))
+([s3://s3.mesocentre.uca.fr](http://s3.mesocentre.uca.fr))
 with Ceph deployed by UCA. Applications are being deployed via
 OpenStack, providing a flexible and scalable environment for future
 services. These foundational components will support the upcoming

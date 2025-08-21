@@ -1,6 +1,6 @@
 # FAIR-EASE@D4Science
 
-[[D4Science]](https://www.d4science.org/) is a hybrid data
+[D4Science](https://www.d4science.org/) is a hybrid data
 infrastructure, hosted by CNR Italy, designed to support scientific
 collaboration and resource sharing across various domains, including
 biology, ecology, environmental studies, social sciences. Established in
@@ -15,7 +15,7 @@ A Memorandum Of Understanding (MoU) was signed between Blue Cloud 2026
 and FAIR-EASE in November 2024, to strengthen collaboration between the
 two projects. This led to the creation of a FAIR-EASE VRE, including the
 launch of a dedicated gateway
-([[https://fair-ease.d4science.org/]](https://fair-ease.d4science.org/))
+([https://fair-ease.d4science.org/](https://fair-ease.d4science.org/))
 and the development of two VLABs for Coastal Water Dynamics and Marine
 Omics Observation.
 
@@ -37,7 +37,7 @@ Marine Omics Observation VLAB on D4Science
 For the Marine Omics Observation VLAB, we collaborated with the
 D4Science team to provide a Galaxy service that enables the chaining of
 predefined tools. This instance is available at
-[[https://galaxy-gcp.d4science.org/MarineOmicsObservations/]](https://galaxy-gcp.d4science.org/MarineOmicsObservations/).
+[https://galaxy-gcp.d4science.org/MarineOmicsObservations/](https://galaxy-gcp.d4science.org/MarineOmicsObservations/).
 Currently, only non-interactive tools can be executed due to a technical
 issue that still needs to be resolved.
 
@@ -51,7 +51,7 @@ Galaxy project service on D4Science
 For Coastal Water Dynamics, we collaborated with D4Science team to
 provide a webODV server providing access to satellite data as well as
 reanalysis model output in the form of netCDF files:
-[[https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv]](https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv).
+[https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv](https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv).
 These data complement the wide range of environmental data available on
 the other webODV servers.
 
