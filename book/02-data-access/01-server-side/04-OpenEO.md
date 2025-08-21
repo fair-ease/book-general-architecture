@@ -15,11 +15,12 @@ workflows on datacubes. OpenEO provides a discovery interface (OpenEO
 Discovery) that allows users to access data and metadata exposed via a
 SpatioTemporal Asset Catalog (STAC) access point.
 
-![](02_01_openeo.png){width="4.993233814523185in"
-height="1.8448895450568679in"}
+```{figure} 02_01_openeo.png
+:height: 350px
+:name: figure-02_01_openeo
 
-[]{#_heading=h.ysmyn16ennak .anchor}<directive-fig>* Unify data access with
-openEO*[^10]
+* Unify data access with openEO*[^10]
+```
 
 With openEO, users can apply processing functions directly on the data
 where it resides, chaining operations into workflows that are executed
