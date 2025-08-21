@@ -27,8 +27,62 @@ Accessing JupyterLab on UCA via EGI CheckIn
 Here are the services deployed:
 
 
-```{table} services deployed
-:name: my-table-ref-services-deployed
+<table>
+<colgroup>
+<col style="width: 17%" />
+<col style="width: 22%" />
+<col style="width: 59%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Building block</strong></th>
+<th style="text-align: left;"><strong>Service</strong></th>
+<th style="text-align: left;"><strong>URL</strong></th>
+</tr>
+<tr>
+<th rowspan="4" style="text-align: left;"><strong>Data
+Access</strong></th>
+<th style="text-align: left;">Examind Community</th>
+<th style="text-align: left;"><a
+href="https://examind.eoscfe.mesocentre.uca.fr/examind/"><u>https://examind.eoscfe.mesocentre.uca.fr/examind/</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">Thredds</th>
+<th style="text-align: left;"><a
+href="https://thredds.eoscfe.mesocentre.uca.fr/"><u>https://thredds.eoscfe.mesocentre.uca.fr/</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">ERDDAP</th>
+<th style="text-align: left;"><a
+href="https://erddap.eoscfe.mesocentre.uca.fr"><u>https://erddap.eoscfe.mesocentre.uca.fr</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">Beacon</th>
+<th style="text-align: left;"><a
+href="https://beacon-argo.eoscfe.mesocentre.uca.fr/"><u>https://beacon-argo.eoscfe.mesocentre.uca.fr/</u></a></th>
+</tr>
+<tr>
+<th rowspan="3" style="text-align: left;"><strong>Data
+Analysis</strong></th>
+<th style="text-align: left;">WebODV</th>
+<th style="text-align: left;"><a
+href="https://webodv.eoscfe.mesocentre.uca.fr/"><u>https://webodv.eoscfe.mesocentre.uca.fr/</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">TerriaMap</th>
+<th style="text-align: left;"><a
+href="https://terriamap.eoscfe.mesocentre.uca.fr/"><u>https://terriamap.eoscfe.mesocentre.uca.fr/</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;">JupyterHub/Lab</th>
+<th style="text-align: left;"><a
+href="https://jupyterhub.eoscfe.mesocentre.uca.fr/"><u>https://jupyterhub.eoscfe.mesocentre.uca.fr/</u></a></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 
 +------------+----------------+----------------------------------------------------------------------------------------------------------------------+
 | **Building | **Service**    | **URL**                                                                                                              |
@@ -51,13 +105,66 @@ Here are the services deployed:
 |            | JupyterHub/Lab | [[https://jupyterhub.eoscfe.mesocentre.uca.fr/]{.underline}](https://jupyterhub.eoscfe.mesocentre.uca.fr/)           |
 +============+================+======================================================================================================================+
 
-```
+
 
 ### Strengths and areas for improvement
 
 
-```{table} Strengths and areas for improvement
-:name: my-table-ref-strengths-areas-improvement
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 36%" />
+<col style="width: 37%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>EAL Implementation</strong></th>
+<th style="text-align: left;"><strong>Strengths</strong></th>
+<th style="text-align: left;"><strong>Areas for
+improvement</strong></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Galaxy for Earth
+System</strong></th>
+<th style="text-align: left;"><p>- Galaxy as PaaS</p>
+<p>- Galaxy Pulsar integration</p>
+<p>- Galaxy Training Materials</p>
+<p>- CI/CD with GitHub</p>
+<p>- Community-based contributions</p></th>
+<th style="text-align: left;"><p>- Implement user group management
+features</p>
+<p>- Enhance integration for discovering and accessing geospatial
+reference datasets</p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>D4Science</strong></th>
+<th style="text-align: left;"><p>- Integration of various services
+(discovery, access, analysis)</p>
+<p>- Catalogue and publication mechanisms</p>
+<p>- Group management (VLAB, VRE, landing pages)</p>
+<p>- Collaboration tools</p></th>
+<th style="text-align: left;"><p>- S3 API direct access for better
+tool/service integration and support for HTTP Range</p>
+<p>- Streamline deployment of new services by external teams</p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>FAIR-EASE@UCA</strong></th>
+<th style="text-align: left;"><p>- S3 storage (reference data,
+userspace)</p>
+<p>- Deployment of new services</p>
+<p>- Integration of access and analysis workflows</p>
+<p>- Links to other EALs (e.g., Galaxy Europe via Pulsar)</p></th>
+<th style="text-align: left;"><p>- Design a landing page for better user
+entry points</p>
+<p>- Implement group and collaboration management features</p>
+<p>- Develop a dedicated service catalogue in connection with the EOSC
+node federation</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 +-------------------------+-------------------------+-------------------------+
 | **EAL Implementation**  | **Strengths**           | **Areas for             |
 |                         |                         | improvement**           |
@@ -104,7 +211,8 @@ Here are the services deployed:
 |                         | (e.g., Galaxy Europe    |                         |
 |                         | via Pulsar)             | \- Deploy a vault       |
 +=========================+=========================+=========================+
-```
+
+
 # Conclusion
 
 Over the course of the project, FAIR-EASE has achieved a series of
