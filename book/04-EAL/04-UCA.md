@@ -10,20 +10,25 @@ The EAL FAIR-EASE@UCA remains in an incubation phase but is
 progressively taking shape through key developments. Notably, it has
 been interfaced with the EGI Check-in SSO service to support federated
 authentication and has integrated an S3 object storage
-([[s3://s3.mesocentre.uca.fr]{.underline}](http://s3.mesocentre.uca.fr))
+([[s3://s3.mesocentre.uca.fr]](http://s3.mesocentre.uca.fr))
 with Ceph deployed by UCA. Applications are being deployed via
 OpenStack, providing a flexible and scalable environment for future
 services. These foundational components will support the upcoming
 deployment of analytical tools and workflows aligned with FAIR-EASE
 objectives.
 
-![](media/image6.png){width="6.535603674540682in"
-height="2.7886679790026245in"}
+```{figure} 04_uca_egi.png
+:height: 300px
+:name: figure-04_uca_egi.png
 
-[]{#_heading=h.uwtsmvpukv5p .anchor}*Figure 42 - Accessing JupyterLab on
-UCA via EGI CheckIn*
+Accessing JupyterLab on UCA via EGI CheckIn
+```
 
 Here are the services deployed:
+
+
+```{table} services deployed
+:name: my-table-ref-services-deployed
 
 +------------+----------------+----------------------------------------------------------------------------------------------------------------------+
 | **Building | **Service**    | **URL**                                                                                                              |
@@ -46,8 +51,13 @@ Here are the services deployed:
 |            | JupyterHub/Lab | [[https://jupyterhub.eoscfe.mesocentre.uca.fr/]{.underline}](https://jupyterhub.eoscfe.mesocentre.uca.fr/)           |
 +============+================+======================================================================================================================+
 
+```
+
 ### Strengths and areas for improvement
 
+
+```{table} Strengths and areas for improvement
+:name: my-table-ref-strengths-areas-improvement
 +-------------------------+-------------------------+-------------------------+
 | **EAL Implementation**  | **Strengths**           | **Areas for             |
 |                         |                         | improvement**           |
@@ -94,7 +104,7 @@ Here are the services deployed:
 |                         | (e.g., Galaxy Europe    |                         |
 |                         | via Pulsar)             | \- Deploy a vault       |
 +=========================+=========================+=========================+
-
+```
 # Conclusion
 
 Over the course of the project, FAIR-EASE has achieved a series of
@@ -188,15 +198,15 @@ project.
 [^21]: PORTIER, M. (2024) FAIR-EASE - D4.3 Status and expectations of
     the FAIR-EASE data lake. Zenodo. doi: 10.5281/zenodo.13933551.
 
-[^22]: [<https://github.com/fair-ease/py-udal-interface>]{.underline}
+[^22]: [<https://github.com/fair-ease/py-udal-interface>]
 
-[^23]: [<https://github.com/fair-ease/py-udal-fe-impl>]{.underline}
+[^23]: [<https://github.com/fair-ease/py-udal-fe-impl>]
 
-[^24]: [[https://lab.fairease.eu/dataset-demand-register/registry/]{.underline}](https://lab.fairease.eu/dataset-demand-register/registry/)
+[^24]: [[https://lab.fairease.eu/dataset-demand-register/registry/]](https://lab.fairease.eu/dataset-demand-register/registry/)
 
 [^25]: *Source:
-    [[https://jupytergis.readthedocs.io/en/latest/]{.underline}](https://jupytergis.readthedocs.io/en/latest/)*
+    [[https://jupytergis.readthedocs.io/en/latest/]](https://jupytergis.readthedocs.io/en/latest/)*
 
-[^26]: [[https://doi.org/10.5281/zenodo.10069773]{.underline}](https://doi.org/10.5281/zenodo.10069773)
+[^26]: [[https://doi.org/10.5281/zenodo.10069773]](https://doi.org/10.5281/zenodo.10069773)
 
-[^27]: [[https://fairease.eu/kers]{.underline}](https://fairease.eu/kers)
+[^27]: [[https://fairease.eu/kers]](https://fairease.eu/kers)

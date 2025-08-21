@@ -27,7 +27,7 @@ This can also be reconfigured to use cloud hosted S3 object stores.
 
 
 ```{figure} 02_01_iceberg.png
-:height: 350px
+:height: 300px
 :name: figure-02_01_iceberg
 
 Apache Iceberg Trino and ERDDAP
@@ -43,3 +43,12 @@ interoperability. Work to standardise geospatial components in iceberg
 is also in progress, as is the development and design of a standard
 schema (like geojson) for iceberg to manage geospatial data, temporal
 data, 4D data, chunked data, etc. This work is still on-going.
+
+
+[^16]: [[https://erddap.eoscfe.mesocentre.uca.fr/]](https://erddap.eoscfe.mesocentre.uca.fr/)
+
+[^17]: [[https://glodap.info/index.php/merged-and-adjusted-data-product-v2-2023/]](https://glodap.info/index.php/merged-and-adjusted-data-product-v2-2023/)
+
+[^18]: [[https://erddap.eoscfe.mesocentre.uca.fr/erddap/tabledap/glodap_v2_2023_iceberg2.graph]](https://erddap.eoscfe.mesocentre.uca.fr/erddap/tabledap/glodap_v2_2023_iceberg2.graph)
+
+[^19]: [[https://github.com/fair-ease/erddap-trino-iceberg]](https://github.com/fair-ease/erddap-trino-iceberg)

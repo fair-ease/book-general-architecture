@@ -19,7 +19,7 @@ SpatioTemporal Asset Catalog (STAC) access point.
 :height: 300px
 :name: figure-02_01_openeo
 
-Unify data access with openEO
+Unify data access with openEO *[^10]*
 ```
 [^10]
 
@@ -147,5 +147,5 @@ OpenEO endpoint is available on
 There was no immediate practical use for the pilots, but the potential
 for further developments are significant.
 
-[^10]: S*ource: [[https://openeo.org]{.underline}](https://openeo.org)*
+[^10]: S*ource: [[https://openeo.org]](https://openeo.org)*
 [^11]: S*ource: [[https://dataspace.copernicus.eu/]{.underline}](https://dataspace.copernicus.eu/)*

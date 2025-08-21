@@ -1,6 +1,6 @@
 # FAIR-EASE@D4Science
 
-[[D4Science]{.underline}](https://www.d4science.org/) is a hybrid data
+[[D4Science]](https://www.d4science.org/) is a hybrid data
 infrastructure, hosted by CNR Italy, designed to support scientific
 collaboration and resource sharing across various domains, including
 biology, ecology, environmental studies, social sciences. Established in
@@ -15,39 +15,43 @@ A Memorandum Of Understanding (MoU) was signed between Blue Cloud 2026
 and FAIR-EASE in November 2024, to strengthen collaboration between the
 two projects. This led to the creation of a FAIR-EASE VRE, including the
 launch of a dedicated gateway
-([[https://fair-ease.d4science.org/]{.underline}](https://fair-ease.d4science.org/))
+([[https://fair-ease.d4science.org/]](https://fair-ease.d4science.org/))
 and the development of two VLABs for Coastal Water Dynamics and Marine
 Omics Observation.
 
-![](media/image12.png){width="5.139067147856518in"
-height="2.458254593175853in"}
 
-[]{#_heading=h.qk3hsvm0itgm .anchor}*Figure 38 - FAIR-EASE VRE home page
-on D4Science*
+```{figure} 04_fe_vre_home.png
+:height: 300px
+:name: figure-04_fe_vre_home
 
-![](media/image11.png){width="5.396681977252843in"
-height="4.267834645669291in"}
+FAIR-EASE VRE home page on D4Science
+```
 
-[]{#_heading=h.bop6vx8z2cqp .anchor}*Figure 39 - Marine Omics
-Observation VLAB on D4Science*
+```{figure} 04_marine_omics_vlab.png
+:height: 400px
+:name: figure-04_marine_omics_vlab
+
+Marine Omics Observation VLAB on D4Science
+```
 
 For the Marine Omics Observation VLAB, we collaborated with the
 D4Science team to provide a Galaxy service that enables the chaining of
 predefined tools. This instance is available at
-[[https://galaxy-gcp.d4science.org/MarineOmicsObservations/]{.underline}](https://galaxy-gcp.d4science.org/MarineOmicsObservations/).
+[[https://galaxy-gcp.d4science.org/MarineOmicsObservations/]](https://galaxy-gcp.d4science.org/MarineOmicsObservations/).
 Currently, only non-interactive tools can be executed due to a technical
 issue that still needs to be resolved.
 
-![](media/image3.png){width="6.692716535433071in"
-height="2.388888888888889in"}
+```{figure} 04_galaxy.png
+:height: 300px
+:name: figure-04_galaxy
 
-[]{#_heading=h.ajmpeaatej25 .anchor}*Figure 40 - Galaxy project service
-on D4Science*
+Galaxy project service on D4Science
+```
 
 For Coastal Water Dynamics, we collaborated with D4Science team to
 provide a webODV server providing access to satellite data as well as
 reanalysis model output in the form of netCDF files:
-[[https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv]{.underline}](https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv).
+[[https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv]](https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv).
 These data complement the wide range of environmental data available on
 the other webODV servers.
 
@@ -60,8 +64,10 @@ conduct their analysis, or use for input to their models and services.
 The asset selector includes a human readable as well as a machine
 accessible interface with similar functionalities as the IDDAS.
 
-![](media/image2.png){width="6.405485564304462in"
-height="2.8999956255468065in"}
 
-[]{#_heading=h.71paqiezlw87 .anchor}*Figure 41 - Access point of IDDAS
-from the FAIR-EASE EAL on D4Science*
+```{figure} 04_iddas.png
+:height: 300px
+:name: figure-04_iddas
+
+Access point of IDDAS from the FAIR-EASE EAL on D4Science
+```
