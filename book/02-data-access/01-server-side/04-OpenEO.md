@@ -16,11 +16,12 @@ Discovery) that allows users to access data and metadata exposed via a
 SpatioTemporal Asset Catalog (STAC) access point.
 
 ```{figure} 02_01_openeo.png
-:height: 350px
+:height: 300px
 :name: figure-02_01_openeo
 
-* Unify data access with openEO*[^10]
+Unify data access with openEO
 ```
+[^10]
 
 With openEO, users can apply processing functions directly on the data
 where it resides, chaining operations into workflows that are executed
@@ -145,3 +146,6 @@ OpenEO endpoint is available on
 
 There was no immediate practical use for the pilots, but the potential
 for further developments are significant.
+
+[^10]: S*ource: [[https://openeo.org]{.underline}](https://openeo.org)*
+[^11]: S*ource: [[https://dataspace.copernicus.eu/]{.underline}](https://dataspace.copernicus.eu/)*
