@@ -16,7 +16,7 @@ Unlike traditional file systems, S3 operates over the HTTP protocol
 along with API's, making it highly scalable and accessible across
 distributed systems. It supports fine-grained access control, enabling
 secure, policy-driven access to individual objects. UCA has provided a
-1TB S3 endpoint to help users become acculturated to this technology.
+1TB S3 endpoint to help users become acculturated to this technology with a CEPH backend.
 
 Additionally, S3 API supports HTTP range requests[^4], allowing users or
 applications to retrieve specific fragments of a file, using byte
