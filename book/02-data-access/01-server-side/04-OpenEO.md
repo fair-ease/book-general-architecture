@@ -1,3 +1,12 @@
+---
+authors:
+  - name: Quentin BIALOTA
+    orcid: 0009-0004-5092-7207
+    affiliations:
+      - id: geomatys
+        institution: Geomatys
+---
+
 # openEO
 
 ##### Overview
