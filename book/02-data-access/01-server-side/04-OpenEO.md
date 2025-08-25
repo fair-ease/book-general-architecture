@@ -5,6 +5,13 @@ authors:
     affiliations:
       - id: geomatys
         institution: Geomatys
+  - name: Erwan Bodéré
+    orcid: 0000-0002-0507-4274
+    affiliations:
+      - id: ifremer
+        institution: Ifremer
+        ror: 044jxhp58
+        department: Research Infrastructure and Information Systems
 ---
 
 # openEO
@@ -77,7 +84,6 @@ ARCO formats, from local or remote storage (e.g. HTTPs, S3).
 - Examind Community website : https://www.examind.com/en/examind-community/
 
 ```{figure} 02_01_openeo_examind_community.png
-:height: 300px
 :name: figure-02_01_openeo_examind_community
 
 openEO on Examind Community
