@@ -19,7 +19,7 @@ SpatioTemporal Asset Catalog (STAC) access point.
 :height: 300px
 :name: figure-02_01_openeo
 
-Unify data access with openEO *[^10]*
+Unify data access with openEO *[^1]*
 ```
 
 With openEO, users can apply processing functions directly on the data
@@ -33,7 +33,7 @@ Earth System domains.
 :height: 300px
 :name: figure-02_01_openeo_wflow
 
-openEO workflow mechanism *[^11]*
+openEO workflow mechanism *[^2]*
 ```
 
 The API is fully compatible with ARCO formats such as Zarr and COG, as
@@ -48,7 +48,7 @@ lowering the barrier for non-expert users and fostering reproducibility.
 :height: 300px
 :name: figure-02_01_openeo_web_editor
 
-openEO Web Editor *[^12]*
+openEO Web Editor *[^3]*
 ```
 
 OpenEO is currently being standardized within OGC, and momentum is
@@ -111,7 +111,6 @@ you can use the user interface (via a web editor client) or the STAC /
 OpenEO Process API.
 
 ```{figure} 02_01_openeo_processes.png
-:height: 300px
 :name: figure-02_01_openeo_processes
 
 openEO processes on Examind
@@ -151,5 +150,19 @@ OpenEO endpoint is available on
 There was no immediate practical use for the pilots, but the potential
 for further developments are significant.
 
-[^10]: S*ource: [https://openeo.org](https://openeo.org)*
-[^11]: S*ource: [https://dataspace.copernicus.eu/](https://dataspace.copernicus.eu/)*
+##### Another example with Copernicus
+
+To give another example of openEO processing, we can use the Copernicus 
+platform. You can find all Sentinel data directly here, as well as processes 
+that are already available. Below is an example of a workflow for 
+calculating an NDVI from Sentinel data.
+
+```{figure} 02_01_openeo_copernicus.png
+:name: figure-02_01_openeo_copernicus
+
+openEO flow on Copernicus (NDVI calculation)
+```
+
+[^1]: S*ource: [https://openeo.org](https://openeo.org)*
+[^2]: S*ource: [https://dataspace.copernicus.eu/](https://dataspace.copernicus.eu/)*
+[^3]: S*ource: [https://editor.openeo.org/](https://editor.openeo.org/)*
