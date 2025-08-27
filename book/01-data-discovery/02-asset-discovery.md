@@ -32,7 +32,7 @@ IDDAS search UI
 ```
 
 ## SPARQL API
-Instead of using the search UI, users can also use the SPARQL API, which makes use of [Yagui](https://docs.triply.cc/yasgui-api/). The direct link to the SPARQL service can also be used, which is available [here](https://fair-ease-iddas.maris.nl/sparql/query). The SPARQL API supports GeoSPARQL for geospatial search. In the SPARQL API, users can construct the SPARQL query themselves, or copy the SPARQL from the search UI and adapt it to their needs. The Figure below shows the input field for the SPARQL query. The user can click on the triangle to execute the query and retrieve the results. 
+Instead of using the search UI, users can also use the SPARQL API, which users can query using [Yasgui](https://docs.triply.cc/yasgui-api/) on the [IDDAS SPARQL page](https://fair-ease-iddas.maris.nl/sparql). The direct link to the SPARQL service can also be used, which is available [here](https://fair-ease-iddas.maris.nl/sparql/query). The SPARQL API supports GeoSPARQL for geospatial search. In the SPARQL API, users can construct the SPARQL query themselves, or copy the SPARQL from the search UI and adapt it to their needs. The Figure below shows the input field for the SPARQL query. The user can click on the triangle to execute the query and retrieve the results. 
 
 ```{figure} sparql.png
 
