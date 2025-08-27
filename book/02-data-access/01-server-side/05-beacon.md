@@ -1,3 +1,19 @@
+---
+authors:
+  - name: Tjerk Krijger
+    orcid: 0000-0002-1722-0523
+    affiliations:
+      - id: maris
+        institution: Maris
+        ror: 03wr7bx86
+  - name: Peter Thijsse
+    orcid: 0000-0002-1722-0523
+    affiliations:
+      - id: maris
+        institution: Maris
+        ror: 03wr7bx86
+---
+
 # Beacon
 
 **Beacon** is able to provide users with fast and easy access to
@@ -15,14 +31,7 @@ such as Euro-Argo or the World Ocean Database for fast and easy access
 to harmonized data subsets.
 
 More technical details, example applications and general information on
-Beacon can be found on the website
-[[https://beacon.maris.nl/]{.underline}](https://beacon.maris.nl/) and
-the documentation on Github[^15].
-
-![](media/image44.png){width="1.454682852143482in"
-height="2.1914709098862644in"}
-
-[]{#_heading=h.rd96lgn31848 .anchor}*Figure 17 - Beacon architecture*
+Beacon can be found on the [website](https://beacon.maris.nl/), [documentation](https://maris-development.github.io/beacon/) and on [Github](https://github.com/maris-development/beacon).
 
 In order to use Beacon for providing access to harmonised subsets, a set
 of in total 8 monolithic Beacon instances were set-up for relevant data
@@ -43,13 +52,10 @@ access to Argo data following their query criteria in less than 10
 seconds. The data can be stored in different output formats and easily
 converted to a dataframe as depicted here for further analysis.
 
-![](media/image40.png){width="6.182276902887139in"
-height="2.448047900262467in"}
+```{figure} beaconargo.png
 
-[]{#_heading=h.bhf7h9s6i8co .anchor}*Figure 18 - Access to the Argo data
-collection that is hosted on the UCA Testbed via a Jupyter Notebook for
-on-the-fly access to Temperature and Salinity data*
-
+Access to Argo collection via Beacon
+```
 The following figure shows an example application of Beacon for access
 to the WOD. By sending a POST request to the Beacon endpoint, with a set
 of columns and filters, the user retrieves on-the-fly in a few seconds
@@ -57,9 +63,7 @@ all data in one single file, fitting the filter criteria. This is then
 available for further processing. Here a simple plot is shown for
 temperature data from the WOD.
 
-![](media/image43.png){width="6.692716535433071in"
-height="6.902777777777778in"}
+```{figure} wod.png
 
-[]{#_heading=h.hkbdblde7xrt .anchor}*Figure 19 - Example application of
-Beacon in a Jupyter Notebook for on-the-fly access to Temperature data
-from the World Ocean Database.*
+Access to World Ocean Database collection via Beacon
+```
