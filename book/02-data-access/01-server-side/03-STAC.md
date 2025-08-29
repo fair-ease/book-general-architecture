@@ -18,6 +18,12 @@ concepts:
 
 - Asset: data or metadata files accessible via URLs
 
+```{figure} 02_01_stac_schema.png
+:name: figure-02_01_stac_schema
+
+STAC Schema
+```
+
 STAC offers rich search capabilities based on spatio-temporal criteria,
 extended with additional filters using CQL2 (e.g. observed parameter).
 This enables users and applications to discover relevant items and
