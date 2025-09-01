@@ -213,6 +213,14 @@ node federation</p></th>
 +=========================+=========================+=========================+ -->
 
 
+```{figure} 02_01_s3_image17.png
+:height: 350px
+:name: figure-02_01_s3_image17
+
+Storage types comparison
+```
+
+
 # Conclusion
 
 Over the course of the project, FAIR-EASE has achieved a series of
