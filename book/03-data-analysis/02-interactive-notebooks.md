@@ -21,7 +21,6 @@ functions, and share results, all within a unified interface designed
 for collaborative use.
 
 In order to promote the integration and use of cloud-based object storage systems, particularly through the use of an S3 backend.
-
 Tutorial notebooks have been designed and shared to demonstrate the various basic features:  
 - manipulation of elements (buckets, objects, rights).
 - interaction (adding, deleting)  
