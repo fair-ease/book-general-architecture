@@ -213,11 +213,11 @@ node federation</p></th>
 +=========================+=========================+=========================+ -->
 
 
-```{figure} 02_01_s3_image17.png
+```{figure} 04-UCA.png
 :height: 350px
-:name: figure-02_01_s3_image17
+:name: 04-UCA
 
-Storage types comparison
+UCA testbed infrastructure
 ```
 
 
