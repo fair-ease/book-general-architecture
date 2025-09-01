@@ -213,13 +213,12 @@ node federation</p></th>
 +=========================+=========================+=========================+ -->
 
 
-```{figure} 04-UCA.png
+```{figure} 04_testbed-fair-ease-v3.png
 :height: 350px
-:name: 04-UCA
+:name: figure-04_testbed-fair-ease-v3.png
 
 UCA testbed infrastructure
 ```
-
 
 # Conclusion
 
