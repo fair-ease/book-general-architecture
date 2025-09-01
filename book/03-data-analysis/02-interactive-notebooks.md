@@ -20,6 +20,18 @@ visualisation, enabling users to explore spatial data, apply processing
 functions, and share results, all within a unified interface designed
 for collaborative use.
 
+In order to promote the integration and use of cloud-based object storage systems, particularly through the use of an S3 backend.
+
+Tutorial notebooks have been designed and shared to demonstrate the various basic features:  
+- manipulation of elements (buckets, objects, rights).
+- interaction (adding, deleting)  
+and how to use this type of storage in pipelines:
+- file format conversion (native to cloud-optimised to improve access and processing speed)
+ - data transformations (columns, aggregation)
+ - data selection based on criteria
+ - interaction with third-party tools
+ - automatic file generation
+
 ![](media/image19.png){width="6.0400415573053365in"
 height="3.0461001749781276in"}
 
