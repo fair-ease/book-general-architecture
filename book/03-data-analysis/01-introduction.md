@@ -45,7 +45,7 @@ highlight the introduction of the **Dataset Demand Registry** [^24] and
 its associated "Query Editor":
 
 ```{figure} 03_01_udal_query_editor.png
-:height: 300px
+:height: 400px
 :name: 03_01_udal_query_editor
 
 screenshot of the UDAL Query Editor

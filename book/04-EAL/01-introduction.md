@@ -22,7 +22,7 @@ which may differ between EALs.
 
 
 ```{figure} 04_01_eal_sys.png
-:height: 300px
+:height: 200px
 :name: 04_01_eal_sys
 
 EAL and system of systems approach

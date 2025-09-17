@@ -110,6 +110,150 @@ ODV interactive tool in Galaxy
 |                                                                                                                               |                            | [[Galaxy_PR]](https://github.com/usegalaxy-eu/usegalaxy-eu-tools/pull/806)                       |
 +===============================================================================================================================+============================+==============================================================================================================+ -->
 
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 40%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Tool</strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Links</strong></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Argo_getdata</strong></th>
+<th style="text-align: left;">Allows retrieval of Argo glider data
+(physical and biogeochemical).</th>
+<th><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/ocean"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/81"><u>Galaxy
+PR</u></a></p></th>
+</tr>
+<tr>
+<th><strong>DIVA_full_analysis</strong></th>
+<th style="text-align: left;">Implemented as both batch and interactive
+tools, this module enables advanced spatial interpolation of marine
+data.</th>
+<th><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/ocean"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/118"><u>Batch
+PR</u></a></p>
+<p><a href="https://github.com/usegalaxy-eu/galaxy/pull/160"><u>GxIT
+PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Copernicus Marine Data
+Store</strong> (copernicusmarine)</th>
+<th style="text-align: left;">Batch tool to query and download datasets
+from CMEMS.</th>
+<th><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/ocean"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/126"><u>Galaxy_PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Ocean Data View</strong></th>
+<th style="text-align: left;">Used to plot geo-referenced ocean data
+from NetCDF and other formats.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/bgruening/docker-odv"><u>GitHub Galaxy
+tool</u></a></p>
+<p><a
+href="https://github.com/usegalaxy-eu/galaxy/pull/166"><u>GxIT_PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>ODV collection manager</strong>
+(tool_odv)</th>
+<th style="text-align: left;">Merges various datasets with a common
+vocabulary and creates a single generic ODV spreadsheet in an automatic
+way</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/ocean_data_view_manager"><u>GitHub
+Galaxy tool</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>ODV history manager</strong>
+(tool_odv_history)</th>
+<th style="text-align: left;">Report in the input file the ODV history
+including the change of QC flag</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/ocean_data_view_manager"><u>GitHub
+Galaxy tool</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><p><strong>Canyon B</strong></p>
+<p>(bgc_canyonb)</p></th>
+<th style="text-align: left;">Robust Estimation of Open Ocean CO2
+Variables and Nutrient Concentrations From T, S, and O2 Data Using
+Bayesian Neural Network</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/ocean_neural_network"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/conda-forge/staged-recipes/pull/28638"><u>Conda
+recipe</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/150"><u>Galaxy_PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><p><strong>Sanntis</strong></p>
+<p>(sanntis_marine)</p></th>
+<th style="text-align: left;">The Sanntis tool identify biosynthetic
+gene clusters (BGCs) in genomic &amp; metagenomic data</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Finn-Lab/SanntiS"><u>GitHub content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/marine_omics"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/121"><u>Galaxy_PR</u></a>
+<a
+href="https://github.com/galaxyecology/tools-ecology/pull/123"><u>Galaxy_PR_2</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>QCV Harmonizer</strong> (<a
+href="https://toolshed.g2.bx.psu.edu/repository/browse_repository?id=38ab3b3c936ea98a"><u>harmonize_insitu_to_netcdf</u></a>)</th>
+<th style="text-align: left;">Harmonizes oceanographic biogeochemical
+data.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Marie59/FE-ft-ESG/tree/main/ocean"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/bgc_ocean"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/usegalaxy-eu/usegalaxy-eu-tools/pull/806"><u>Galaxy_PR</u></a></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 **Tools for Interactive Visualisation and Data Handling**
 
 <!-- +-----------------------+----------------------------+--------------------------------------------------------------------------------------------------------------------+
@@ -136,6 +280,63 @@ ODV interactive tool in Galaxy
 |                       |                            | [[GxIt]](https://usegalaxy.eu/root?tool_id=interactive_tool_terriamap)                                 |
 +=======================+============================+====================================================================================================================+ -->
 
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 40%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Tool</strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Links</strong></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>QGIS</strong></th>
+<th style="text-align: left;">Full integration of QGIS as an interactive
+tool in Galaxy.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/usegalaxy-eu/docker-qgis"><u>GitHub Galaxy
+tool</u></a></p>
+<p><a
+href="https://github.com/usegalaxy-eu/galaxy/pull/200"><u>GxIT_PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>HoloViz Ecosystem</strong></th>
+<th style="text-align: left;">A set of interactive notebooks for data
+visualisation using Python libraries as Panel, Bokeh, Datashader,
+etc.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/usegalaxy-eu/docker-holoviz"><u>GitHub Galaxy
+tool</u></a></p>
+<p><a href="https://github.com/usegalaxy-eu/galaxy/pull/207"><u>GxIT
+PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>STAC Browser</strong></th>
+<th style="text-align: left;">Access and navigation interface for STAC
+(SpatioTemporal Asset Catalogs).</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/radiantearth/stac-browser"><u>GitHub
+content</u></a></p>
+<p><a href="https://github.com/usegalaxy-eu/galaxy/pull/220"><u>GxIT
+PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>TerriaMap</strong></th>
+<th style="text-align: left;">Geospatial visualisation</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/usegalaxy-eu/galaxy/tree/release_24.2_europe/tools/interactive/terriamap"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://usegalaxy.eu/root?tool_id=interactive_tool_terriamap"><u>GxIt</u></a></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 **Access to Global and Biodiversity Data**
 
 <!-- +-----------------------+----------------------------+-----------------------------------------------------------------------------------------------------+
@@ -160,6 +361,59 @@ ODV interactive tool in Galaxy
 |                       |                            |                                                                                                     |
 |                       |                            | [[Galaxy_PR]](https://github.com/galaxyecology/tools-ecology/pull/117)                  |
 +=======================+============================+=====================================================================================================+ -->
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 40%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Tool</strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Links</strong></th>
+</tr>
+<tr>
+<th style="text-align: left;">OBIS occurences (obis_data)</th>
+<th style="text-align: left;">A tool to search and retrieve species
+occurrences from the OBIS database.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Marie59/obisindicators"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/obisindicators"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/90"><u>Galaxy_PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;">Copernicus Data Space Ecosystem</th>
+<th style="text-align: left;">Jupyter notebooks to explore Copernicus
+data using SentinelHub and OpenEO.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/eu-cdse/notebook-samples"><u>GitHub
+content</u></a></p>
+<p><a href="https://github.com/usegalaxy-eu/galaxy/pull/210"><u>GxIT
+PR</u></a></p></th>
+</tr>
+<tr>
+<th style="text-align: left;">Trends.Earth</th>
+<th style="text-align: left;">Batch tool for computing land cover and
+degradation indicators, supporting monitoring of SDG 15.3.1.</th>
+<th style="text-align: left;"><p><a
+href="https://github.com/Marie59/tools-ecology/tree/trends-earth"><u>GitHub
+content</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/tree/master/tools/obisindicators"><u>GitHub
+Galaxy tool</u></a></p>
+<p><a
+href="https://github.com/galaxyecology/tools-ecology/pull/117"><u>Galaxy_PR</u></a></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 #### Workflows developed and shared
 
@@ -220,6 +474,73 @@ Water Coastal Dynamics workflow
                      Using Galaxy                       
   ----------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+
+<table>
+<colgroup>
+<col style="width: 26%" />
+<col style="width: 48%" />
+<col style="width: 24%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Workflow</strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Access</strong></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Marine Omics: Biosynthetic Gene
+Clusters</strong></th>
+<th style="text-align: left;">Detects biosynthetic gene clusters in
+marine omics data using tools like Prodigal and SanntiS.</th>
+<th style="text-align: left;"><a
+href="https://workflowhub.eu/workflows/1663?version=1&amp;utm_source=chatgpt.com"><u>WorkflowHub</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Marine Omics Visualisation (OBIS
+Indicators)</strong></th>
+<th style="text-align: left;">Converts OBIS biodiversity records into
+indicators such as Shannon and Simpson indices.</th>
+<th style="text-align: left;"><a
+href="https://workflowhub.eu/workflows/1698?version=1&amp;utm_source=chatgpt.com"><u>WorkflowHub</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Process Argo Data with Pangeo
+&amp; ODV</strong></th>
+<th style="text-align: left;">Processes Argo float data and visualizes
+oceanographic variables using Pangeo and Ocean Data View (ODV).</th>
+<th style="text-align: left;"><a
+href="https://workflowhub.eu/workflows/1436?utm_source=chatgpt.com"><u>WorkflowHub</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Subset Mediterranean Sea &amp;
+Extract Phosphate</strong></th>
+<th style="text-align: left;">Subsets NetCDF data for the Mediterranean
+Sea and extracts phosphate levels for analysis.</th>
+<th style="text-align: left;"><a
+href="https://workflowhub.eu/workflows/1445?utm_source=chatgpt.com"><u>WorkflowHub</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Full Analysis of Argo
+Data</strong></th>
+<th style="text-align: left;">End-to-end workflow to analyse and
+visualise Argo profile datasets.</th>
+<th style="text-align: left;"><a
+href="https://workflowhub.eu/workflows/1113"><u>WorkflowHub</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Argo-Glider Nitrate
+QCV</strong></th>
+<th style="text-align: left;">Qualification, Calibration and validation
+of Argo floats and Gliders ocean Biogeochemical Data Using Galaxy</th>
+<th><a
+href="https://earth-system.usegalaxy.eu/published/workflow?id=44827462c065bae3"><u>Galaxy
+Earth System</u></a></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 #### Galaxy Training Network (GTN)
 
 Several high-quality, FAIR-aligned tutorials and learning pathways have
@@ -233,11 +554,131 @@ openness, and reproducibility. All materials are licensed under CC-BY
 4.0.
 
 ```{figure} 04_02_gtn.png
-:height: 350px
+:height: 400px
 :name: 04_02_gtn
 
 GTN example
 ```
+
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 12%" />
+<col style="width: 46%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: left;"><strong>Title</strong></th>
+<th style="text-align: left;"><strong>Type</strong></th>
+<th style="text-align: left;"><strong>Description</strong></th>
+<th style="text-align: left;"><strong>Access</strong></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Getting your hands-on earth
+data</strong></th>
+<th style="text-align: left;">Learning Pathway</th>
+<th style="text-align: left;">Introduction to accessing and analyzing
+ocean, land, atmosphere, biodiversity data in Galaxy.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/climate/tutorials/earth_system/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>OBIS Marine
+Indicators</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Calculate biodiversity indices (Shannon,
+Simpson, ES50) from OBIS.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/ecology/tutorials/obisindicators/tutorial.html?utm_source=chatgpt.com"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>From NDVI with OpenEO to time
+series with Holoviews</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Process NDVI satellite data for land
+degradation analysis and time-series visualization.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/ecology/tutorials/ndvi/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Marine Omics: Identifying
+BGCs</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Detect biosynthetic gene clusters using
+Prodigal, InterProScan, SanntiS.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/ecology/tutorials/marine_omics_bgc/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Ocean’s Variables
+Study</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Subset Mediterranean ocean data and
+explore variables (e.g., phosphate).</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/climate/tutorials/oceans_var/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Ocean Data View
+(ODV)</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Visualize NetCDF-based oceanographic
+variables using ODV.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/climate/tutorials/ocean_data_view/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Sentinel 5P Data
+Visualisation</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Explore and analyze Sentinel-5P atmosphere
+data interactively.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/climate/tutorials/sentinel5_data/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Analyse Argo Data</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Process Argo float datasets with Pangeo
+tools and visualize using ODV</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/climate/tutorials/argo/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Make your tools available on your
+subdomain</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Guide to managing tools in a Galaxy
+subdomain.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/community/tutorials/tools_subdomains/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+<tr>
+<th style="text-align: left;"><strong>Create a subdomain for your
+community</strong></th>
+<th style="text-align: left;">Tutorial</th>
+<th style="text-align: left;">Steps to create and administer a Galaxy
+subdomain for your community.</th>
+<th style="text-align: left;"><a
+href="https://training.galaxyproject.org/training-material/topics/community/tutorials/tools_subdomains/tutorial.html"><u>Run
+Tutorial</u></a></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 <!--
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Title**         **Type**   **Description**                   **Access**
