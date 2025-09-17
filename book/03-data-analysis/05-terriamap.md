@@ -24,7 +24,7 @@ Terriamap 2D and 3D display modes
 ```
 Terriamap is based on the Terriajs javascript library, the source code
 and user configurable files are published on Github in the [[TerriaMap
-github repository]{.underline}](https://github.com/TerriaJS/TerriaMap).
+github repository]](https://github.com/TerriaJS/TerriaMap).
 Documentation on the installation and configuration of Terriamap and the
 various supported data services and data sources is available at
 [https://docs.terria.io/guide/](https://docs.terria.io/guide/)

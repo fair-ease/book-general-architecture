@@ -35,10 +35,10 @@ have been published on Github. Two pilots have implemented the UDAL
 principle, demonstrating its applicability in real-world contexts :
 
 - Ocean BGC :
-  [[https://github.com/fair-ease/py-udal-pokapok]{.underline}](https://github.com/fair-ease/py-udal-pokapok)
+  [[https://github.com/fair-ease/py-udal-pokapok]](https://github.com/fair-ease/py-udal-pokapok)
 
 - Marine Omics Observation:
-  [[https://github.com/fair-ease/py-udal-mgo]{.underline}](https://github.com/fair-ease/py-udal-mgo)
+  [[https://github.com/fair-ease/py-udal-mgo]](https://github.com/fair-ease/py-udal-mgo)
 
 Most notably in this final phase of the project we would like to
 highlight the introduction of the **Dataset Demand Registry** [^24] and
@@ -64,11 +64,8 @@ repositories, creating containers or integrating them into Galaxy
 toolshed.
 
 
-[^20]: Marc Portier (2023) FAIR-EASE_D4.1_Landscaping exercise_The
-    -meta-data, software and cloud needs for the data lake. Zenodo. doi:
-    10.5281/zenodo.7965398.
-[^21]: PORTIER, M. (2024) FAIR-EASE - D4.3 Status and expectations of
-    the FAIR-EASE data lake. Zenodo. doi: 10.5281/zenodo.13933551.
+[^20]: Marc Portier (2023) FAIR-EASE_D4.1_Landscaping exercise_The-meta-data, software and cloud needs for the data lake. Zenodo. doi: 10.5281/zenodo.7965398.
+[^21]: PORTIER, M. (2024) FAIR-EASE - D4.3 Status and expectations of the FAIR-EASE data lake. Zenodo. doi: 10.5281/zenodo.13933551.
 [^22]: [<https://github.com/fair-ease/py-udal-interface>]
 [^23]: [<https://github.com/fair-ease/py-udal-fe-impl>]
 [^24]: [[https://lab.fairease.eu/dataset-demand-register/registry/](https://lab.fairease.eu/dataset-demand-register/registry/)

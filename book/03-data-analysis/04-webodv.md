@@ -19,15 +19,15 @@ getting-started documents help guide new users.
 
 Large volumes of important environmental datasets for all parts of the
 Earth System are accessible from *webODV* servers summarized at
-[[https://webodv.awi.de/]{.underline}](https://explore.webodv.awi.de/).
+[[https://webodv.awi.de/]](https://explore.webodv.awi.de/).
 This includes global TS- and BGC-Argo profile data, GLODAP carbon system
 data, SOCAT surface fCO~2~ data, MEOP marine mammals data, and the World
 Ocean Atlas (versions 2023 and 2018). In addition, we also provide
 global collections of historical meteorological as well as river-runoff
 data. The webODV deployments at D4Science
-([[https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv]{.underline}](https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv))
+([[https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv]](https://fair-ease.d4science.org/group/coastalwaterdynamics/webodv))
 and UCA
-([[https://webodv.eoscfe.mesocentre.uca.fr/]{.underline}](https://webodv.eoscfe.mesocentre.uca.fr/))
+([[https://webodv.eoscfe.mesocentre.uca.fr/]](https://webodv.eoscfe.mesocentre.uca.fr/))
 focus on satellite data and model output made available via netCDF
 files. Support for netCDF files in ODV and webODV was implemented during
 the FAIR-EASE project.
@@ -39,24 +39,25 @@ local data collections open in separate instances of the ODV desktop
 software running locally. Publication-ready figures can easily be
 created from any of the open datasets.
 
-![](media/image25.png){width="5.667011154855643in"
-height="2.8439227909011375in"}
+```{figure} 03_04_fe_webodv.png
+:height: 300px
+:name: 03_04_fe_webodv
 
-[]{#_heading=h.4dzmrt2gd4j8 .anchor}*Figure 26 - Screenshot of a data
-analysis session with several multi-disciplinary datasets open in webODV
-and ODV desktop*
+Screenshot of a data analysis session with several multi-disciplinary datasets open in webODV and ODV desktop
+```
 
 As a new feature developed during the FAIR-EASE project, users can now
 link the open multi-disciplinary datasets by exchanging graphics
 elements as well as actual data between any two data windows in webODV
 or ODV desktop.
 
-![](media/image24.png){width="4.338990594925634in"
-height="3.4725820209973755in"}
+```{figure} 03_04_webodv_contours.png
+:height: 300px
+:name: 03_04_webodv_contours
 
-[]{#_heading=h.uqirkkz822l8 .anchor}*Figure 27 - Contours of surface
-water Chorophyll-a concentrations determined by satellite sensors
-overlain on color-shaded salinity at 10 m depth*
+Contours of surfacewater Chorophyll-a concentrations determined by satellite sensors
+overlain on color-shaded salinity at 10 m depth
+```
 
 This is an example of exchanging graphics elements between datasets.
 Here surface water Chorophyll-a concentrations determined by satellite

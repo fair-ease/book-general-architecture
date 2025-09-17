@@ -39,10 +39,13 @@ WorkflowHub. Its dynamic Galaxy training network promotes continuous
 learning and skills development through collaborative tutorials,
 workshops and training materials.
 
-![](media/image23.png){width="6.064058398950131in"
-height="2.3129910323709537in"}
 
-[]{#_heading=h.r3bzvedfuy5o .anchor}*Figure 24 - Galaxy web UI*
+```{figure} 03_03_galaxy_web_ui.png
+:height: 300px
+:name: 03_03_galaxy_web_ui
+
+Galaxy web UI
+```
 
 #### Key Contributions of FAIR-EASE to Galaxy
 
@@ -59,13 +62,13 @@ FAIR principles:
   custom SHACL profiles ;
 
 - [[OGC API:Processes
-  Integration]{.underline}](https://github.com/dmeaux/fair-ease-galaxy-ogcapi):
+  Integration]](https://github.com/dmeaux/fair-ease-galaxy-ogcapi):
   Initial work began to expose Galaxy workflows as OGC-compliant
   computational services. It consists of a
-  [[FastAPI]{.underline}](https://github.com/fastapi/fastapi) bridge
-  server between [[Galaxy\'s]{.underline}](https://usegalaxy.org/) API
+  [[FastAPI]](https://github.com/fastapi/fastapi) bridge
+  server between [[Galaxy's]](https://usegalaxy.org/) API
   and [[Open Geospatial Consortium
-  APIs]{.underline}](https://ogc.org/publications) ;
+  APIs]](https://ogc.org/publications) ;
 
 - ODV Format Support: Galaxy can now recognize and handle Ocean Data
   View (ODV) files, including an interactive tool for visualization ;
@@ -81,8 +84,10 @@ These developments significantly improved Galaxy's usability,
 interoperability, and alignment with FAIR data management principles,
 making it a core component of FAIR-EASE.
 
-![](media/image21.png){width="5.552083333333333in"
-height="3.1852088801399825in"}
 
-[]{#_heading=h.yvlxl18amt7g .anchor}*Figure 25 - FAIR-EASE usage of
-Galaxy*
+```{figure} 03_03_fe_galaxy_usage.png
+:height: 300px
+:name: 03_03_fe_galaxy_usage
+
+FAIR-EASE usage of Galaxy
+```
