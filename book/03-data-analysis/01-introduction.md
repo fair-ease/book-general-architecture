@@ -13,10 +13,13 @@ elaborated in the deliverable D4.3[^21] through the **Uniform Data
 Access Layer** (UDAL). Those documents describe the vision and practical
 approach behind this technique to formally streamline all data access.
 
-![](media/image17.png){width="6.307280183727034in"
-height="2.1563648293963253in"}
 
-[]{#_heading=h.2r7xtfjfs03q .anchor}*Figure 21 - UDAL principle*
+```{figure} 03_01_udal_principle.png
+:height: 300px
+:name: 03_01_udal_principle
+
+UDAL principle
+```
 
 By introducing formal data contracts, UDAL allows different components
 of the data flow to interact without being tightly coupled, making it
@@ -41,12 +44,12 @@ Most notably in this final phase of the project we would like to
 highlight the introduction of the **Dataset Demand Registry** [^24] and
 its associated "Query Editor":
 
-![screenshot of the UDAL Query Editor](media/image14.png){width="6.0in"
-height="6.791666666666667in"}
+```{figure} 03_01_udal_query_editor.png
+:height: 300px
+:name: 03_01_udal_query_editor
 
-[]{#_heading=h.4149c2to9o12 .anchor}*Figure 22 - screenshot of the UDAL
-Query Editor*
-
+screenshot of the UDAL Query Editor
+```
 ## Analytics services
 
 FAIR-EASE promotes many data analysis services and platforms that help
@@ -59,3 +62,13 @@ Technical support was also provided to help pilots improve the TRL and
 FAIRness of their tools, for example by publishing them in code
 repositories, creating containers or integrating them into Galaxy
 toolshed.
+
+
+[^20]: Marc Portier (2023) FAIR-EASE_D4.1_Landscaping exercise_The
+    -meta-data, software and cloud needs for the data lake. Zenodo. doi:
+    10.5281/zenodo.7965398.
+[^21]: PORTIER, M. (2024) FAIR-EASE - D4.3 Status and expectations of
+    the FAIR-EASE data lake. Zenodo. doi: 10.5281/zenodo.13933551.
+[^22]: [<https://github.com/fair-ease/py-udal-interface>]
+[^23]: [<https://github.com/fair-ease/py-udal-fe-impl>]
+[^24]: [[https://lab.fairease.eu/dataset-demand-register/registry/](https://lab.fairease.eu/dataset-demand-register/registry/)

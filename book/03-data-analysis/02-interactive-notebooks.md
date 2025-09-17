@@ -31,8 +31,15 @@ and how to use this type of storage in pipelines:
  - interaction with third-party tools
  - automatic file generation
 
-![](media/image19.png){width="6.0400415573053365in"
-height="3.0461001749781276in"}
 
-[]{#_heading=h.ufywcjkgd1ju .anchor}*Figure 23 - JupyterGIS
-example*[^25]
+```{figure} 03_02_jupytergis.png
+:height: 300px
+:name: 03_02_jupytergis
+
+JupyterGIS[^25] (source: https://jupytergis.readthedocs.io/en/latest/) 
+```
+
+
+[^25]: *Source:
+    [[https://jupytergis.readthedocs.io/en/latest/]](https://jupytergis.readthedocs.io/en/latest/)*
+
