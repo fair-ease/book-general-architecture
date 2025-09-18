@@ -41,10 +41,10 @@ blog[^7] for more information.
 
 
 ```{figure} 02_01_duckdb_parquet.png
-:height: 350px
+:height: 400px
 :name: 02_01_duckdb_parquet
 
-Querying a parquet file in an remote object store using DuckDB(https://duckdb.org)
+Querying a parquet file in an remote object store using DuckDB (https://duckdb.org)
 ```
 
 
