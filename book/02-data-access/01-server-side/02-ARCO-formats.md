@@ -38,3 +38,15 @@ FAIR-EASE promotes the use of these formats to speed up the analysis of
 a subset of data, but also to improve the performance of standardised
 services (e.g. OGC standards) implemented by data providers. See Lobelia
 blog[^7] for more information.
+
+
+```{figure} 02_01_duckdb_parquet.png
+:height: 350px
+:name: 02_01_duckdb_parquet
+
+Querying a parquet file in an remote object store using DuckDB(https://duckdb.org)
+```
+
+
+
+[^7]: [[https://blog.lobelia.earth/arco-the-smartest-way-to-access-big-geospatial-data-eaf689eff3c9]](https://blog.lobelia.earth/arco-the-smartest-way-to-access-big-geospatial-data-eaf689eff3c9)

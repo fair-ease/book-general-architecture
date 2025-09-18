@@ -60,3 +60,8 @@ Here is a screenshot of an ARGO profile item from the STAC Browser:
 
 STAC Browser example
 ```
+
+
+[^8]: [[https://stacspec.org/en/]{.underline}](https://stacspec.org/en/)
+
+[^9]: [[https://en.wikipedia.org/wiki/HATEOAS]{.underline}](https://en.wikipedia.org/wiki/HATEOAS)

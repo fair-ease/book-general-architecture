@@ -181,3 +181,14 @@ openEO flow on Copernicus (NDVI calculation)
 [^1]: S*ource: [https://openeo.org](https://openeo.org)*
 [^2]: S*ource: [https://dataspace.copernicus.eu/](https://dataspace.copernicus.eu/)*
 [^3]: S*ource: [https://editor.openeo.org/](https://editor.openeo.org/)*
+
+
+[^10]: S*ource: [[https://openeo.org]{.underline}](https://openeo.org)*
+
+[^11]: S*ource: [[https://dataspace.copernicus.eu/]{.underline}](https://dataspace.copernicus.eu/)*
+
+[^12]: *Source: [[https://dataspace.copernicus.eu/]{.underline}](https://dataspace.copernicus.eu/)*
+
+[^13]: [*[https://stacspec.org/en/about/stac-spec/]{.underline}*](https://stacspec.org/en/about/stac-spec/)
+
+[^14]: [*[https://openeo.org/documentation/1.0/developers/api/reference.html#section/Processes]{.underline}*](https://openeo.org/documentation/1.0/developers/api/reference.html#section/Processes)

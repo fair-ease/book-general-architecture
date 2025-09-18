@@ -32,3 +32,5 @@ a TIFF file supplied by Copernicus Data Space Ecosystem.
 
 HTTP range requests
 ```
+
+[^4]: [[https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Range_requests]](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Range_requests)
