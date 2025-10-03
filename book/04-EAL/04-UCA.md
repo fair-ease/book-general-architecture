@@ -24,9 +24,12 @@ objectives.
 Accessing JupyterLab on UCA via EGI CheckIn
 ```
 
+All the services are accessible through a webpage https://eoscfe.mesocentre.uca.fr/
+<a
+href="https://eoscfe.mesocentre.uca.fr/"><u>https://eoscfe.mesocentre.uca.fr/</u></a>
+
+
 Here are the services deployed:
-
-
 <table>
 <colgroup>
 <col style="width: 17%" />
