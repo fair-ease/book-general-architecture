@@ -25,6 +25,7 @@ It allows users to:
 - **Obtain** unique URIs for terms when these are missing, enabling unambiguous identification of semantic elements.  
 - **Suggest** mappings to URIs from the targeted reference list of vocabularies identified in *D2.3*, enabling harmonisation on a subset of common vocabularies.
 
+![Semantic Analyser diagram](SA.png)
 
 
 # A Continuous Evolution
