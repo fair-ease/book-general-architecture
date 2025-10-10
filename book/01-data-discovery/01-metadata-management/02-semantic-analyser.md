@@ -29,7 +29,7 @@ It allows users to:
 
 # A Continuous Evolution
 
-The **Semantic Analyser (SA)** was first described in detail in *FAIR-EASE Deliverable D2.3*.  
+The **Semantic Analyser (SA)** was first described in detail in [*FAIR-EASE Deliverable D2.3*](https://zenodo.org/records/10606930).
 It has since undergone several significant developments to expand its functionality and improve its integration with related systems.  
 The updates described below reflect continued progress towards supporting advanced semantic analysis in the environmental data domain.
 
