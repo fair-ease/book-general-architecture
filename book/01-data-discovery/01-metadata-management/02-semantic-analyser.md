@@ -66,7 +66,7 @@ The SA User Interface was redesigned and replaced with a more modern and intuiti
 
 A key advancement has been the implementation of the **Semantic Analyser API**, enabling automated, machine-to-machine interaction.  
 The API comprises five endpoints, all delivering responses in **JSON-LD** format based primarily on **schema.org** standards.  
-The core analysis functionality is accessed via a `POST` endpoint.
+The core analysis functionality is accessed via a `POST` endpoint. [*swagger documentation*](https://semantics.bodc.ac.uk/api/docs)
 
 ---
 
